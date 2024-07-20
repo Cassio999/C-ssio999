@@ -2,8 +2,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+e+Cassio+Oliveira;eu+tenho+25+anos;eu+sou+de+Ceará-Mirim,+RN;Estudo+desenvolvimento+web;+sou+Analista+de+Suporte;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -36,13 +34,17 @@
 
 <div> 
 
-[![WhatsaApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584994777733?text=Ol%C3%A1%2C%20tudo%20bem%3F%20Vir%20o%20seu%20perfil%20no%20github%20%C3%A9%20fiquei%20interessado%20no%20seu%20trabalho%2C%20est%C3%A1%20dispon%C3%ADvel%20para%20conversar%3F%20)
+[![WhatsaApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/be9ghp)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cassiojackson18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A1ssio-oliveira-40a3b11b7/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007068286807)
 <a href = "mailto:cassiojackson100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cassio999&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
