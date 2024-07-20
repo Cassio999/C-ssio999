@@ -36,7 +36,7 @@
 
 <div> 
 
-[![WhatsaApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/be9ghp)
+[![WhatsaApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584994777733?text=Oi%2C%20tudo%20bem%3F%20Estou%20entrando%20em%20contato%20pois%20gostaria%20de%20saber%20mais%20o%20seu%20trabalho%2C%20podemos%20conversar%3F%20)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cassiojackson18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A1ssio-oliveira-40a3b11b7/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007068286807)
