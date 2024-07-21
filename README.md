@@ -1,4 +1,4 @@
-# C-ssio999
+  # C-ssio999
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
@@ -11,8 +11,9 @@
 </div>
 
 
+<div  align="center"> 
 
-## Tecnologias que eu uso no meu dia
+<h1> Tecnologias que eu uso no meu dia</h1>
 
 
 <div  align="center"> 
