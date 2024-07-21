@@ -27,6 +27,8 @@
     <img align="center" height="30" width="40" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" height="30" width="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="30" width="40" alt="visualstudio" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
+<img align="center" height="30" width="40" alt="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/WordPress/WordPress-original.svg">
+    
     
 
    </div>
